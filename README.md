@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello 🌻
 
-<!--
-**SabrinaForcarelli/SabrinaForcarelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Meu nome é Sabrina Forcarelli
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem de JavaScript
+- Tenho conhecimento basico em Front-end
+- Veja meus certificados em 🥇https://cursos.alura.com.br/user/sabrina-forcarellidos-santos/fullCertificate/349e799e83446206169e9a41d0019839
+
+### ENTRE EM CONTATO COMIGO!! 📞
+
+sabrinaforcarelli05@gmail.com
+
+sabrina_forcarelli
+
+

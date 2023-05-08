@@ -4,9 +4,10 @@
 Meu nome é Sabrina Forcarelli
 
 - Estou estudando na Alura
-- Estou me desenvolvendo na linguagem de JavaScript
+- Estou me desenvolvendo na linguagem de Java
 - Tenho conhecimento basico em Front-end
 - Veja meu certificado [aqui.](https://cursos.alura.com.br/user/sabrina-forcarellidos-santos/fullCertificate/349e799e83446206169e9a41d0019839)
+- Me acompanhe para ver minha evolução 📈
 
 ### ENTRE EM CONTATO COMIGO!! 📞
 

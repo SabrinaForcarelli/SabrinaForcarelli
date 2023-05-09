@@ -16,6 +16,7 @@ Meu nome é Sabrina Forcarelli
 
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](sabrinaforcarelli05@gmail.com)
 
+[Gmail](mailto:sabrinaforcarelli05@gmail.com)
 
 
 
